@@ -1,0 +1,24 @@
+body{
+    background-color: #E9F1FA;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    font-size: 30px;
+    background-color: #00ABE4;
+    color: white;
+    border-radius: 10px;
+    border-color: black;
+    padding: 15px;
+}
+nav:hover{
+    cursor: pointer;
+}
+#about{
+    padding: 50px;
+}
+#info{
+    background-color: #00ABE4;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
